@@ -6,7 +6,7 @@ The *PRSmix* package can be used to benchmark PRSs and compute the linear combin
 To use PRSmix:
 ```
 install.packages("devtools")
-devtools::install_github("buutrg/PRSmix")
+devtools::install_github("matthewchang0/PRSmix")
 library(PRSmix)
 ```
 
@@ -303,4 +303,4 @@ Truong, B., Hull, L. E., Ruan, Y., Huang, Q. Q., Hornsby, W., Martin, H. C., van
 This software is released under the [MGB Source Available License (NC-ND)](LICENSE). It is available for non-commercial, non-revenue generating, research purposes. For commercial use, please contact Mass General Brigham Innovation.
 
 # Contact information
-Please contact Buu Truong (btruong@broadinstitute.org) or Pradeep Natarajan (pradeep@broadinstitute.org) if you have any queries.
+Please open an issue at [matthewchang0/PRSmix](https://github.com/matthewchang0/PRSmix/issues) if you have any queries.
